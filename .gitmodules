@@ -1,0 +1,3 @@
+[submodule "YogSudhaarAndroid"]
+	path = YogSudhaarAndroid
+	url = git@github.com:devjayantmalik/YogSudhaarAndroid.git
