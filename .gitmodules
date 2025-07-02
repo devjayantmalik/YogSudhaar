@@ -1,6 +1,8 @@
 [submodule "YogSudhaarAndroid"]
 	path = YogSudhaarAndroid
 	url = git@github.com:devjayantmalik/YogSudhaarAndroid.git
+	branch = main
 [submodule "YogSudhaarBackend"]
 	path = YogSudhaarBackend
 	url = git@github.com:devjayantmalik/YogSudhaarBackend.git
+	branch = main
